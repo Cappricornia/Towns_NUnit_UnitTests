@@ -24,7 +24,6 @@ namespace TownsTests
         }
 
 
-
         [Test]
         public void Test_constructor_create_empty_town_collection()
         {
@@ -125,14 +124,6 @@ namespace TownsTests
 
             Assert.That(() => townsCollection.Reverse(), Throws.InstanceOf<ArgumentNullException>());
         }
-
-
-
-
-
-
-
-
 
     }
 }
