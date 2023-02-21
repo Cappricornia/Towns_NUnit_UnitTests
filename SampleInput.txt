@@ -1,0 +1,16 @@
+CREATE Sofia, Plovdiv, Varna
+PRINT
+ADD Veliko Tarnovo
+PRINT
+ADD Veliko Tarnovo
+PRINT
+REMOVE 1
+PRINT
+REVERSE
+PRINT
+REMOVE 3
+PRINT
+CREATE Sofia
+JUMP
+PRINT
+END
